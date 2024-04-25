@@ -25,5 +25,6 @@ Skills: JS / HTML / CSS / BS
 
 ![GitHub metrics](https://metrics.lecoq.io/fahadbinakter)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=fahadbinakter)  
+![GitHub streak stats]([![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only))  
 
