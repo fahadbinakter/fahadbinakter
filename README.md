@@ -9,7 +9,7 @@ My Name is Fahad Bin Akter. I started my career in 2021. I am a passionate web d
 I can help you to develop a modern. I am a full-time freelance web developer.
 To discuss your business or idea you can contact me by mail [fahadbinakter480@gmail.com]
 
-Skills: JS / HTML / CSS / BS 
+Skills: JS / HTML / CSS / BS /React 
 
 - 🔭 I’m currently working on a Private Company 
 - 🌱 I’m currently learning Bootstrap 
