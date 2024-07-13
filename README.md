@@ -1,4 +1,4 @@
-![A Professional Web Developer | Web Designer | WordPress Experts](https://media.licdn.com/dms/image/D4E16AQGgi_0KuQnG8w/profile-displaybackgroundimage-shrink_350_1400/0/1711345486175?e=1719446400&v=beta&t=7-zxJVeY7-Xwq7b7B94HtKqq0DLugca69CCHAiJwBOM)
+![A Professional Web Developer | Web Designer | WordPress Experts
 
 ### Hi there 👋, I'm Fahad!
 #### A Professional Web Developer | Web Designer | WordPress Experts
