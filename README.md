@@ -1,4 +1,4 @@
-![A Professional Web Developer | Web Designer | WordPress Experts
+A Professional Web Developer | Web Designer | WordPress Experts
 
 ### Hi there 👋, I'm Fahad!
 #### A Professional Web Developer | Web Designer | WordPress Experts
