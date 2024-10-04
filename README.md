@@ -1,8 +1,7 @@
-A Professional Web Developer | Web Designer | WordPress Experts
 
 ### Hi there 👋, I'm Fahad!
 #### A Professional Web Developer | Web Designer | WordPress Experts 
-(https://media.licdn.com/dms/image/v2/D4E16AQGgi_0KuQnG8w/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1711345486175?e=1733356800&v=beta&t=u3oQFhDACiuZ3rnaAQqWb-VwkGkCNbTcB1cCeZCxDuM)
+https://media.licdn.com/dms/image/v2/D4E16AQGgi_0KuQnG8w/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1711345486175?e=1733356800&v=beta&t=u3oQFhDACiuZ3rnaAQqWb-VwkGkCNbTcB1cCeZCxDuM
 
 My Name is Fahad Bin Akter. I started my career in 2021. I am a passionate web designer and developer. My expertise lies in creating professional and modern websites for businesses. As a full-time freelance web developer with many happy clients, I am committed to providing top-notch services. I am a top-rated developer in my field and can help you develop an outstanding website that will help grow your business.
 
